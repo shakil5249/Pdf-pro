@@ -1,0 +1,6 @@
+{
+  "name": "PDFProTools",
+  "description": "A complete, production-ready full-featured PDF tools SaaS platform including Merge, Split, Compress, Convert, Edit, OCR, and AI-powered PDF helpers, complete with an Admin Panel, Blog, and exportable Laravel source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
